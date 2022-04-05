@@ -15,33 +15,7 @@ Favourite Quote:<br>
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" />
 
 ```python
-class Swarup:
-  def skills():
-    #My technical skills 
-    print('🚀 Web Development, 🚀 Internet of Things (IoT),\
-           🚀 Embedded Systems, 🚀 Android Development,\
-           🚀 Web Scraping,🚀 Natural language processing,\
-           🚀 Deep Learning, 🚀 Data Science, 🚀 Lumion-8,\
-           🚀 Adobe Photoshop, 🚀 Adobe Illustrator,\
-           🚀 Adobe After Effects, 🚀 Adobe Premiere Pro,\
-           🚀 Adobe Flash, 🚀 Sketch-up-Pro')
-  
-  def interests():
-    #My interests
-    print('♔ Chess, 🎨 Digital Art, and 📸 Photography')
-  
-  def funFact():
-    print('⚡️ I used to be a Professional Chess Player')
-  
-  def currentStatus():
-    #About my current work status
-    print('📝 Looking forward for Full-Time Job,\
-           💼 Currently working as SDE Intern at SNLTR')
-           
-Swarup.skills()
-Swarup.interests()
-Swarup.funFact()
-Swarup.currentStatus()
+code
 
 ```
 
@@ -65,11 +39,11 @@ Swarup.currentStatus()
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deysarkarswarup&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandeilson01&hide_border=true)
 <br><br>
-![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true&hide_border=true)
+![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&hide_border=true)
 
-
+<!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysarkarswarup&label=Profile%20views&color=0e75b6&style=flat" alt="deysarkarswarup" /> </p><br>
 
@@ -78,14 +52,15 @@ Swarup.currentStatus()
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysarkarswarup&show_icons=true&locale=en&layout=compact" alt="deysarkarswarup" /></p><br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true)  
+ -->
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deysarkarswarup)  
-
-
+<!-- 
 # - 💬 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/deysarkarswarup) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/deysarkarswarup)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/deysarkarswarup)   [<img src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="Youtube logo" width="34">](https://www.youtube.com/c/SwarupDeySarkar) [<img src="https://cdn.svgporn.com/logos/medium-icon.svg" alt="Medium Logo" width="30">](https://medium.com/@deysarkarswarup)
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+ -->
