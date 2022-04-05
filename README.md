@@ -26,18 +26,13 @@ code
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 
 
-# - 💬 States 
+# ⚡ States 
 
-<div>
-<a href="https://github.com/vandeilson01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?vandeilson01&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?vandeilson01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
+ <div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandeilson01&hide_border=true)
 <br><br>
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&hide_border=true)
-
+</div>
 <!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysarkarswarup&label=Profile%20views&color=0e75b6&style=flat" alt="deysarkarswarup" /> </p><br>
