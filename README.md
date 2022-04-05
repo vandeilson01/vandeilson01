@@ -28,8 +28,8 @@ code
 
 # ⚡ States 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandeilson01&hide_border=true)
-<br><br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandeilson01&hide_border=true)
+<br><br> -->
 <!-- ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&hide_border=true) -->
 
 
@@ -38,9 +38,9 @@ code
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysarkarswarup" alt="deysarkarswarup" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysarkarswarup&show_icons=true&locale=en&layout=compact" alt="deysarkarswarup" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysarkarswarup&show_icons=true&locale=en&layout=compact" alt="deysarkarswarup" /></p><br><br><br> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true)  
 
 
 
