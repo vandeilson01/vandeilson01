@@ -28,11 +28,10 @@ code
 
 # ⚡ States 
 
- <div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandeilson01&hide_border=true)
 <br><br>
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&hide_border=true)
-</div>
+
 <!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysarkarswarup&label=Profile%20views&color=0e75b6&style=flat" alt="deysarkarswarup" /> </p><br>
