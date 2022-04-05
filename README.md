@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" /> -->
 
 ```
-code
+(format T "Hello World")
 
 ```
 
