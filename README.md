@@ -32,7 +32,7 @@ code
 <br><br>
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&hide_border=true)
 
-<!-- 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysarkarswarup&label=Profile%20views&color=0e75b6&style=flat" alt="deysarkarswarup" /> </p><br>
 
@@ -41,10 +41,10 @@ code
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysarkarswarup&show_icons=true&locale=en&layout=compact" alt="deysarkarswarup" /></p><br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true)  
- -->
 
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)   -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)  
 
 
 <!-- # - 💬 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
