@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vandeilson01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<img src="https://github-readme-stats.vercel.app/api?vandeilson01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
 
 <div>
 <a href="https://github.com/vandeilson01">
