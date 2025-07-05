@@ -4,11 +4,6 @@
 
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" />
 
-```
-(format T "Implementation of old projects")
-
-```
-
 
 # Languages and Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
