@@ -9,8 +9,9 @@
 ```
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=radical&include_all_commits=true)
+ 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vandeilson01)](https://git.io/streak-stats)
