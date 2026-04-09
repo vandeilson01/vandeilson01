@@ -13,7 +13,7 @@
 
 
 
-[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=radical)
 
 
  <br/>
