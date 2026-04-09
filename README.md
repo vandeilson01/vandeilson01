@@ -11,7 +11,9 @@
 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=radical&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vandeilson01&theme=github_dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vandeilson01&theme=github-dark)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vandeilson01)](https://git.io/streak-stats)
