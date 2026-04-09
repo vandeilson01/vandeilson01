@@ -4,7 +4,7 @@
  
 
 ```
-(format T "Implementation of old projects")
+(format T "Uploading old projects")
 
 ```
  
@@ -13,7 +13,7 @@
 
 
 
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)  -->
+[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandeilson01)  
 
 
  <br/>
