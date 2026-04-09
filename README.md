@@ -9,7 +9,7 @@
 ```
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true)](https://github.com/vandeilson01)
 
 
 
