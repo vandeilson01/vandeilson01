@@ -9,7 +9,7 @@
 ```
  
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true)  -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandeilson01&show_icons=true&theme=radical)](https://github.com/vandeilson01)
 
 
 
